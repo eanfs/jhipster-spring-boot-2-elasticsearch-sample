@@ -27,7 +27,7 @@
             "otherEntityRelationshipName": "location"
         }
     ],
-    "changelogDate": "20180401103852",
+    "changelogDate": "20180401110208",
     "javadoc": "not an ignored comment",
     "entityTableName": "location",
     "dto": "mapstruct",

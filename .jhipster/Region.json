@@ -6,7 +6,7 @@
         }
     ],
     "relationships": [],
-    "changelogDate": "20180401103850",
+    "changelogDate": "20180401110206",
     "entityTableName": "region",
     "dto": "mapstruct",
     "pagination": "infinite-scroll",

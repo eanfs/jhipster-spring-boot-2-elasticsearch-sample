@@ -50,7 +50,7 @@
             "otherEntityField": "id"
         }
     ],
-    "changelogDate": "20180401103855",
+    "changelogDate": "20180401110211",
     "javadoc": "The Employee entity.",
     "entityTableName": "employee",
     "dto": "mapstruct",

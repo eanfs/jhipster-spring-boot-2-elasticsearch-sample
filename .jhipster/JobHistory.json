@@ -40,7 +40,7 @@
             "otherEntityRelationshipName": "jobHistory"
         }
     ],
-    "changelogDate": "20180401103857",
+    "changelogDate": "20180401110213",
     "entityTableName": "job_history",
     "dto": "mapstruct",
     "pagination": "infinite-scroll",

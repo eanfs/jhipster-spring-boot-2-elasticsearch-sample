@@ -18,7 +18,7 @@
             "otherEntityRelationshipName": "task"
         }
     ],
-    "changelogDate": "20180401103854",
+    "changelogDate": "20180401110210",
     "javadoc": "Task entity.\n@author The JHipster team.",
     "entityTableName": "task",
     "dto": "mapstruct",
