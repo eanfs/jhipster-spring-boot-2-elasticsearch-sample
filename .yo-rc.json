@@ -1,14 +1,14 @@
 {
   "generator-jhipster": {
     "promptValues": {
-      "packageName": "com.mycompany.myapp",
+      "packageName": "com.esenyun.workdesk.demo",
       "nativeLanguage": "en"
     },
     "jhipsterVersion": "4.14.0",
     "baseName": "jhipster5",
     "reactive": false,
-    "packageName": "com.mycompany.myapp",
-    "packageFolder": "com/mycompany/myapp",
+    "packageName": "com.esenyun.workdesk.demo",
+    "packageFolder": "com/esenyun/workdesk/demo",
     "serverPort": "8080",
     "authenticationType": "jwt",
     "cacheProvider": "hazelcast",
@@ -33,6 +33,7 @@
     "nativeLanguage": "en",
     "languages": [
       "en"
-    ]
+    ],
+    "enableSocialSignIn": false
   }
 }
